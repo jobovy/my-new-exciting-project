@@ -3,4 +3,8 @@ This is my new really exciting project
 
 ## Author
 
-Jo Bovy (University of Toronto)
+Jo Bovy (University of Toronto) - jo.bovy@utoronto.ca
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
